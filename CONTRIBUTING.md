@@ -15,6 +15,7 @@ repository constitutes Contributions to the IETF Standards Process
 You agree to comply with all applicable IETF policies and procedures, including,
 BCP 78, 79, the TLP, and the TLP rules regarding code components (e.g. being
 subject to a Simplified BSD License) in Contributions.
+<<<<<<< HEAD
 
 
 ## Working Group Information
@@ -54,3 +55,5 @@ tool, using the [GitHub documentation](https://docs.github.com/en/pull-requests/
 
 Document authors/editors are often happy to accept contributions of text,
 and might be willing to help you through the process. Email them and ask.
+=======
+>>>>>>> 747471d (Contribution and license file.)
