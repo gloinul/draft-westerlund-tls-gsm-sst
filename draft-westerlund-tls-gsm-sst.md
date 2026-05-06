@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: SEC
-workgroup: TLS Working Group
+area: "Security"
+workgroup: "Transport Layer Security"
 keyword:
  - TLS
  - QUIC
@@ -18,12 +18,12 @@ keyword:
  - GCM-SST
 
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: gloinul/draft-westerlund-tls-gsm-sst
-  latest: https://example.com/LATEST
+  group: "Transport Layer Security"
+  type: "Working Group"
+  mail: "tls@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/tls/"
+  github: "gloinul/draft-westerlund-tls-gsm-sst"
+  latest: "https://gloinul.github.io/draft-westerlund-tls-gsm-sst/draft-westerlund-tls-gsm-sst.html"
 
 author:
  -
