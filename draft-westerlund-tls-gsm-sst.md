@@ -1,6 +1,6 @@
 ---
-title: "Use of Galois Counter Mode with Secure Short Tags (GCM-SST) in TLS and QUIC"
-abbrev: "Use of GSM-SST in TLS and QUIC"
+title: "Use of Galois Counter Mode with Secure Short Tags (GCM-SST) in TLS, DTLS and QUIC"
+abbrev: "Use of GSM-SST in TLS, DTLS and QUIC"
 category: std
 
 docname: draft-westerlund-tls-gsm-sst-latest
@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: SEC
+workgroup: TLS Working Group
 keyword:
  - TLS
  - QUIC
@@ -22,7 +22,7 @@ venue:
   type: Working Group
   mail: WG@example.com
   arch: https://example.com/WG
-  github: USER/REPO
+  github: gloinul/draft-westerlund-tls-gsm-sst
   latest: https://example.com/LATEST
 
 author:
@@ -40,7 +40,7 @@ author:
 
 normative:
 
-draft-mattsson-cfrg-aes-gcm-sst:
+  I-D.draft-mattsson-cfrg-aes-gcm-sst:
 
 
 informative:
