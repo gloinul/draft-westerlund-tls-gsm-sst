@@ -55,5 +55,3 @@ tool, using the [GitHub documentation](https://docs.github.com/en/pull-requests/
 
 Document authors/editors are often happy to accept contributions of text,
 and might be willing to help you through the process. Email them and ask.
-=======
->>>>>>> 747471d (Contribution and license file.)
