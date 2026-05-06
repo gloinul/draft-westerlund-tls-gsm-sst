@@ -1,27 +1,7 @@
 ---
-###
-# Internet-Draft Markdown Template
-#
-# Rename this file from draft-todo-yourname-protocol.md to get started.
-# Draft name format is "draft-<yourname>-<workgroup>-<name>.md".
-#
-# For initial setup, you only need to edit the first block of fields.
-# Only "title" needs to be changed; delete "abbrev" if your title is short.
-# Any other content can be edited, but be careful not to introduce errors.
-# Some fields will be set automatically during setup if they are unchanged.
-#
-# Don't include "-00" or "-latest" in the filename.
-# Labels in the form draft-<yourname>-<workgroup>-<name>-latest are used by
-# the tools to refer to the current version; see "docname" for example.
-#
-# This template uses kramdown-rfc: https://github.com/cabo/kramdown-rfc
-# You can replace the entire file if you prefer a different format.
-# Change the file extension to match the format (.xml for XML, etc...)
-#
-###
 title: "Use of Galois Counter Mode with Secure Short Tags (GCM-SST) in TLS and QUIC"
 abbrev: "Use of GSM-SST in TLS and QUIC"
-category: Standards Track
+category: std
 
 docname: draft-westerlund-tls-gsm-sst-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
@@ -36,7 +16,7 @@ keyword:
  - QUIC
  - Cipher Suit
  - GCM-SST
- 
+
 venue:
   group: WG
   type: Working Group
@@ -52,7 +32,7 @@ author:
    org: Ericsson
    email: magnus.westerlund@ericsson.com
 
--
+ -
    ins: J. Preuß Mattsson
    name: John Preuß Mattsson
    org: Ericsson
@@ -60,12 +40,11 @@ author:
 
 normative:
 
-draft-mattsson-cfrg-aes-gcm-sst
+draft-mattsson-cfrg-aes-gcm-sst:
 
 
 informative:
 
-...
 
 --- abstract
 
