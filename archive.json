@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-05-07T02:55:24.157647+00:00",
+  "timestamp": "2026-05-10T03:24:17.272403+00:00",
   "repo": "gloinul/draft-westerlund-tls-gsm-sst",
   "labels": [
     {
@@ -49,6 +49,31 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOSVqNcc8AAAABBiLyhQ",
+      "title": "32-byte sample for header protection",
+      "url": "https://github.com/gloinul/draft-westerlund-tls-gsm-sst/issues/1",
+      "state": "OPEN",
+      "author": "gloinul",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "When using Rijndal and needing to sample 32-bytes for the header protection. This can potentially be beyond the actual protected amount of data, Using the shorter authentication tags of 12 bytes do require that the encrypted plain text packet is at least 20 bytes. Need text to address this.",
+      "createdAt": "2026-05-07T10:10:41Z",
+      "updatedAt": "2026-05-08T09:21:55Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "gloinul",
+          "authorAssociation": "OWNER",
+          "body": "I noticed that Aegis simply does:\nmask = Stream(40, hp_key, ZeroPad(ciphertext[0..16], nonce_len))\n",
+          "createdAt": "2026-05-08T09:21:54Z",
+          "updatedAt": "2026-05-08T09:21:54Z"
+        }
+      ]
+    }
+  ],
   "pulls": []
 }
