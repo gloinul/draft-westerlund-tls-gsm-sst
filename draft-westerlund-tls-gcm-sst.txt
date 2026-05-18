@@ -5,12 +5,12 @@
 Transport Layer Security                                   M. Westerlund
 Internet-Draft                                         J. Preuß Mattsson
 Intended status: Standards Track                                Ericsson
-Expires: 8 November 2026                                      7 May 2026
+Expires: 19 November 2026                                    18 May 2026
 
 
 Use of Galois Counter Mode with Secure Short Tags (GCM-SST) in TLS, DTLS
                                 and QUIC
-                  draft-westerlund-tls-gsm-sst-latest
+                  draft-westerlund-tls-gcm-sst-latest
 
 Abstract
 
@@ -31,7 +31,7 @@ About This Document
    https://gloinul.github.io/draft-westerlund-tls-gsm-sst/draft-
    westerlund-tls-gsm-sst.html.  Status information for this document
    may be found at https://datatracker.ietf.org/doc/draft-westerlund-
-   tls-gsm-sst/.
+   tls-gcm-sst/.
 
    Discussion of this document takes place on the Transport Layer
    Security Working Group mailing list (mailto:tls@ietf.org), which is
@@ -56,7 +56,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 November 2026.
+   This Internet-Draft will expire on 19 November 2026.
 
 Copyright Notice
 
