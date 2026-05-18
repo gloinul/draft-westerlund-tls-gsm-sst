@@ -3,7 +3,7 @@ title: "Use of Galois Counter Mode with Secure Short Tags (GCM-SST) in TLS, DTLS
 abbrev: "GCM-SST in TLS, DTLS and QUIC"
 category: std
 
-docname: draft-westerlund-tls-gsm-sst-latest
+docname: draft-westerlund-tls-gcm-sst-latest
 submissiontype: IETF
 number:
 date:
