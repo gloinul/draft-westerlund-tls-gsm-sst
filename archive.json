@@ -1,7 +1,7 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-05-17T03:32:23.494168+00:00",
-  "repo": "gloinul/draft-westerlund-tls-gsm-sst",
+  "timestamp": "2026-05-19T03:38:17.742853+00:00",
+  "repo": "gloinul/draft-westerlund-tls-gcm-sst",
   "labels": [
     {
       "name": "bug",
@@ -54,7 +54,7 @@
       "number": 1,
       "id": "I_kwDOSVqNcc8AAAABBiLyhQ",
       "title": "32-byte sample for header protection",
-      "url": "https://github.com/gloinul/draft-westerlund-tls-gsm-sst/issues/1",
+      "url": "https://github.com/gloinul/draft-westerlund-tls-gcm-sst/issues/1",
       "state": "OPEN",
       "author": "gloinul",
       "authorAssociation": "OWNER",
